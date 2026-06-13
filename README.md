@@ -1,6 +1,6 @@
 # Mini Labs
 
-A collection of small frontend experiments and mini projects built to practice JavaScript fundamentals, DOM manipulation, UI design, and clean project organization.
+A collection of focused frontend mini projects built to practice JavaScript fundamentals, DOM manipulation, UI behavior, and clean user interface design.
 
 This repository works as a personal frontend lab where I build focused, lightweight projects to strengthen core web development skills through practical implementation.
 
